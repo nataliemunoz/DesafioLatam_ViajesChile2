@@ -1,0 +1,33 @@
+.destacados{
+    &__img{
+        height: 100%;
+    }
+    &__title{
+        text-align: start;
+        font-family: $font-open;
+        font-weight: $font-weight2;
+    }
+    &__parrafo{
+        text-align: start;
+        font-family: $font-open;
+        font-weight: $font-weight1;
+    }
+    &__detalle{
+        font-family: $font-open;
+        font-weight: $font-weight1;
+    }
+    &__precio{
+        padding-left: 150px;
+        font-family: $font-open;
+        font-weight: $font-weight1;
+    }
+}
+@media (min-width: 300px) and (max-width: 767px) {
+    .destacados{
+        &__precio{
+            padding-left: 60%;
+            font-family: $font-open;
+            font-weight: $font-weight1;
+        }
+    }
+}

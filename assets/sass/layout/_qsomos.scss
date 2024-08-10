@@ -1,0 +1,15 @@
+.linea{
+    border: 2px solid #ffffff;
+    width: 100%;
+}
+
+.qsomos__img{
+    height: 40vh;
+    width: 100%;
+    border-radius: 12px;
+}
+@media (min-width: 300px) and (max-width: 767px) {
+    .qsomos__img{
+        display: none;
+    }
+}

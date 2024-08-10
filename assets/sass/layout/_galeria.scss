@@ -1,0 +1,22 @@
+.galeria__size{
+    height: 50vh;
+    border-radius: 15px;
+}
+.galeria_img{
+    height: 500px;
+    width: 100%;
+    border-radius: 15px;
+}
+
+@media (min-width: 300px) and (max-width: 767px) {
+
+    .galeria__size{
+        height: 37vh;
+        border-radius: 15px;
+    }
+    .galeria_img{
+        height: 300px;
+        width: 100%;
+        border-radius: 15px;
+    }
+}

@@ -1,0 +1,17 @@
+.testimonio__color{
+    background-color: black;
+}
+.testimonio__img{
+    height: 5vh;
+    width: 3vw;
+    border: 1px solid #fff;
+    border-radius: 100%;
+}
+@media (min-width: 300px) and (max-width: 767px) {
+    .testimonio__img{
+        height: 5vh;
+        width: 8vw;
+        border: 1px solid #fff;
+        border-radius: 100%;
+    }
+}

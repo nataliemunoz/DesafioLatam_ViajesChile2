@@ -1,0 +1,22 @@
+{
+  "name": "desafiolatam_viajeschile2",
+  "version": "1.0.0",
+  "description": "Actualización de landpage viajes chile ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nataliemunoz/DesafioLatam_ViajesChile2.git"
+  },
+  "author": "Natalie Muñoz Hernández",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nataliemunoz/DesafioLatam_ViajesChile2/issues"
+  },
+  "homepage": "https://github.com/nataliemunoz/DesafioLatam_ViajesChile2#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}

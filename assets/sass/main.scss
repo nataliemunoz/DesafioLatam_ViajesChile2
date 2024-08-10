@@ -1,0 +1,21 @@
+
+// Sección Base
+@import'base/reset';
+@import'base/typography';
+
+// Sección Components
+@import'components/section';
+
+// Sección loyaout
+@import'layout/destacados';
+@import'layout/galeria';
+@import'layout/nav';
+@import'layout/qsomos';
+@import'layout/testimonio';
+
+// Pages
+@import'pages/index';
+
+// Sección Vendors
+@import'vendors/bootstrap';
+@import'vendors/googlefonts';
